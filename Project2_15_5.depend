@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1557905979 source:/home/thanhnam/Desktop/Project2_15_5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"jrb.h"
+	"dllist.h"
+
+979678704 /home/thanhnam/Desktop/Project2_15_5/jrb.h
+	"jval.h"
+
+979678722 /home/thanhnam/Desktop/Project2_15_5/jval.h
+
+979678671 /home/thanhnam/Desktop/Project2_15_5/dllist.h
+	"jval.h"
+
+979678660 source:/home/thanhnam/Desktop/Project2_15_5/dllist.c
+	<stdio.h>
+	"dllist.h"
+
+979678678 source:/home/thanhnam/Desktop/Project2_15_5/fields.c
+	<stdio.h>
+	"fields.h"
+
+979678686 /home/thanhnam/Desktop/Project2_15_5/fields.h
+	<stdio.h>
+
+979678693 source:/home/thanhnam/Desktop/Project2_15_5/jrb.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"jrb.h"
+
+1033392343 source:/home/thanhnam/Desktop/Project2_15_5/jval.c
+	<stdio.h>
+	"jval.h"
+
